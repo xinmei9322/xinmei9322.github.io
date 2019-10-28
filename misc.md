@@ -1,14 +1,14 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Misc
+permalink: /misc/
 ---
 
 ## Services
 
-Reviewer for ICLR 2020, NeurIPS 2019, ICML 2019, CVPR 2019, ICCV 2019, WiML 2016, 2017.
+I reviewed for ICLR 2020, NeurIPS 2019, ICML 2019, CVPR 2019, ICCV 2019, WiML 2016, 2017.
 
-<br/><br/>
+<hr class="hr">
 
 ## Honors and Awards
 

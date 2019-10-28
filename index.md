@@ -6,20 +6,20 @@ bodyclass: home
 
 <!-- <section class="txt-left container"> -->
 <!-- </section> -->
-<img style="width:300px;float:right;margin:0 0px 16px 16px" src="{{site.url}}/images/yucen.jpg">
+<img style="width:280px;float:right;margin:0 0px 16px 16px" src="{{site.url}}/images/yucen.jpg">
 I am a Ph.D. student in Department of Computer Science and Technology at Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml). 
 My research interests are in data-efficient machine learning. I have worked on topics including semi-supervised learning, deep generative models, and approximate inference.
 
 Last semester I was a visiting student at Princeton University working with [Ryan P. Adams](https://www.cs.princeton.edu/~rpa/). 
 In summer 2018 I was a research intern at [RIKEN-AIP](https://aip.riken.jp/), Tokyo, working with [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/) and [Gang Niu](https://niug1984.github.io/). 
 I also spent time at Google Cloud AI, Beijing as a research intern, supervised by [Tomas Pfister](http://tomas.pfister.fi/).
-I received my B.E. degree from Department of Electronical Engineering at Tsinghua University in 2015. I also received the Bachelor's degree in Economics from National School of Development of Peking University.
+I received my B.E. degree from Department of Electronical Engineering at Tsinghua University in 2015. I also received a Bachelor's degree in Economics from National School of Development of Peking University.
 
-<br/><br/>
+<hr class="hr">
 
 ## Publications
 
-<table style="margin:20px">
+<table style="margin: 0px; border-collapse: separate; border-spacing: 0 1em">
 	<tbody>
 		<tr>
 	        <td>
@@ -51,7 +51,7 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 			<br>
 			<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 <strong>(Spotlight)</strong></i>.
 			<br>
-			<i>Initial version in <a href="https://lld-workshop.github.io/">NeurIPS 2017 Workshop on Learning with Limited Labeled Data</a> <strong>(Best paper award)</strong></i>.
+			<i><strong>Best paper award</strong> at <a href="https://lld-workshop.github.io/">NeurIPS 2017 Workshop on Learning with Limited Labeled Data</a> </i>.
 			<br>
 			</td>
 	    </tr>

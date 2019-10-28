@@ -117,7 +117,7 @@
 .navbar {
   margin: {
     top: 1.4em;
-    bottom: 1.4em;
+    bottom: 0em;
   };
 
   li {
@@ -125,7 +125,7 @@
   }
 
   a {
-    font-size: 14px;
+    font-size: 16px;
     text-decoration: none;
     color: $primary-color;
   }
@@ -204,8 +204,8 @@
 }
 
 .social {
-  text-align: center;
-  margin: 2em 0;
+  text-align: right;
+  margin: 1.4em 0 0 0;
 
   li {
     display: inline-block;

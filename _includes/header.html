@@ -2,20 +2,36 @@
 
   <div class="container txt-center">
 
-    <nav class="navbar">
-      <ul>
-        <li><a href="{{ "/" | prepend: site.baseurl }}">home</a></li>
-        <li class="divider">&bull;</li>
-        <li><a href="{{ "/about" | prepend: site.baseurl }}">about</a></li>
-      </ul>
-    </nav>
-
+    <table width="100%" align="center" border="0" cellspacing="0">
+      <tbody>
+        <tr>
+          <td width="40%" align="left" style="vertical-align: middle">
+          <nav class="navbar">
+            <ul>
+              <li><a href="{{ "/" | prepend: site.baseurl }}">home</a></li>
+              <li class="divider">&bull;</li>
+              <li><a href="{{ "/misc" | prepend: site.baseurl }}">misc</a></li>
+            </ul>
+          </nav>
+          </td>
+          <td width="60%" align="right" valign="middle">
+            <ul class="social">
+              {% for item in site.social %}
+                {% for i in item %}
+                  <li><a href="{{ i.link }}" target="_blank"><i class="icon icon-{{ i.slug }}"></i></a></li>
+                {% endfor %}
+              {% endfor %}
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <h1>Yucen Luo <small>luoyc15 at mails.tsinghua.edu.cn</small></h1>
     <!--
     <a href="{{ "/" | prepend: site.baseurl }}" class="author-thumb">
       <img src="{{ "/images/author.jpg" | prepend: site.baseurl }}" alt="Author thumbnail" class="dot">
     </a>
     -->
-    <h1>Yucen Luo <small>luoyc15 at mails.tsinghua.edu.cn</small></h1>
     <!-- 
 	<a class="btn" href="{{ site.repository }}/archive/master.zip" target="_blank">download</a>
     -->
