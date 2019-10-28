@@ -2,11 +2,11 @@ permalink   : /:categories/:year/:title/
 markdown    : kramdown
 highlighter : pygments
 
-source: source
-destination: _site
-sass:
-  sass_dir: _sass
-  style: compressed
+# source: source
+# destination: _site
+# sass:
+#   sass_dir: _sass
+#   style: compressed
 
 # Site settings
 title: Yucen Luo
