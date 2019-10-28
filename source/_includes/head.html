@@ -9,7 +9,7 @@
   page_description
 {% endcomment %}
 {% assign page_description = '' %}
-{% capture page_description %}{% if page.description %}{{ page.description | strip_html | strip | rstrip | strip_newlines | truncate: 160 }}{% else %}{{ site.meta_description }}{% endif %}{%if paginator and paginator.page != 1 %} - Página {{ paginator.page }} {% endif %}{%if page.slug == 'category' %} Categoria: {{ page.title }}{% endif %}{%if page.slug == 'tag' %} Tag: {{ page.title }}{% endif %}{% endcapture %}
+{% capture page_description %}{% if page.description %}{{ page.description | strip_html | strip | rstrip | strip_newlines | truncate: 160 }}{% else %}{{ site.meta_description }}{% endif %}{%if page.slug == 'category' %} Categoria: {{ page.title }}{% endif %}{%if page.slug == 'tag' %} Tag: {{ page.title }}{% endif %}{% endcapture %}
 {% capture page_description %}{{ page_description | strip | rstrip | lstrip | escape | strip_newlines }}{% endcapture %}
 
 <meta charset="utf-8">
