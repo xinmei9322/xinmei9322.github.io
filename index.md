@@ -23,12 +23,24 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 	<tbody>
 		<tr>
 	        <td>
-	            <strong>SUMO: Unbiased Estimation of Log Marginal Probability for Latent Variable Models</strong> 
+	            <strong> <a href="">SUMO: Unbiased Estimation of Log Marginal Probability for Latent Variable Models</a></strong> 
 	        <br>
 	        <strong>Yucen Luo*</strong>, Alex Beatson, Mohammad Norouzi, Jun Zhu, David Duvenaud, Ryan P. Adams, Ricky T. Q. Chen*
 	        <br>
+		<i>Under review.
+		</i>
 	        </td>
 	    </tr>
+<!-- 		<tr>
+	        <td>
+	            <strong> <a href="">Deep Bayesian Structure Networks</a></strong> 
+	        <br>
+	        Zhijie Deng, <strong>Yucen Luo</strong>, Jun Zhu, Bo Zhang
+	        <br>
+	        <i>Under review.
+	        </i>
+	        </td>
+	    </tr> -->
 		<tr>
 	        <td>
 	            <strong> <a href="https://arxiv.org/pdf/1903.09980.pdf">Cluster Alignment with a Teacher for Unsupervised Domain Adaptation</a></strong> 
@@ -39,8 +51,8 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 	        </i>
 	        </td>
 	    </tr>
-	    <tr>
-			<td>
+	    	<tr>
+		<td>
 		    <strong> <a href="https://arxiv.org/pdf/1810.11971.pdf">Semi-crowdsourced Clustering with Deep Generative Models</a> [<a href="https://github.com/xinmei9322/semicrowd">code</a>, <a href="static/scdc_poster_NeurIPS.pdf">poster</a>]</strong>
 			<br>
 			<strong>Yucen Luo</strong>, Tian Tian, Jiaxin Shi, Jun Zhu, Bo Zhang
@@ -49,7 +61,7 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 			<br>
 			<i>Initial version in <a href="https://sites.google.com/view/tadgm/home">ICML 2018 Workshop on Theoretical Foundations and Applications of Deep Generative Models</a>.
 			</i>
-			</td>
+		</td>
 		</tr>
 		<tr>
 			<td>
