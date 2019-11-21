@@ -23,6 +23,14 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 	<tbody>
 		<tr>
 	        <td>
+	            <strong>SUMO: Unbiased Estimation of Log Marginal Probability for Latent Variable Models</strong> 
+	        <br>
+	        <strong>Yucen Luo*</strong>, Alex Beatson, Mohammad Norouzi, Jun Zhu, David Duvenaud, Ryan P. Adams, Ricky T. Q. Chen*
+	        <br>
+	        </td>
+	    </tr>
+		<tr>
+	        <td>
 	            <strong> <a href="https://arxiv.org/pdf/1903.09980.pdf">Cluster Alignment with a Teacher for Unsupervised Domain Adaptation</a></strong> 
 	        <br>
 	        Zhijie Deng, <strong>Yucen Luo</strong>, Jun Zhu
