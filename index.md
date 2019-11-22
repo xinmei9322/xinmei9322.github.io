@@ -31,7 +31,7 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 		</i>
 	        </td>
 	    </tr>
-<!-- 		<tr>
+		<tr>
 	        <td>
 	            <strong> <a href="">Deep Bayesian Structure Networks</a></strong> 
 	        <br>
@@ -40,7 +40,7 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 	        <i>Under review.
 	        </i>
 	        </td>
-	    </tr> -->
+	    </tr>
 		<tr>
 	        <td>
 	            <strong> <a href="https://arxiv.org/pdf/1903.09980.pdf">Cluster Alignment with a Teacher for Unsupervised Domain Adaptation</a>[<a href="https://github.com/thudzj/CAT">code</a>]</strong> 
