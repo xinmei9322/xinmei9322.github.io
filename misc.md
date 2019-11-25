@@ -6,7 +6,7 @@ permalink: /misc/
 
 ## Services
 
-I reviewed for ICLR 2020, NeurIPS 2019, ICML 2019, CVPR 2019, ICCV 2019, WiML 2016, 2017.
+I reviewed for AISTATS 2020, ICLR 2020, ICML 2019-2020, NeurIPS 2019, CVPR 2019-2020, ICCV 2019-2020, WiML 2016, 2017.
 
 <hr class="hr">
 
