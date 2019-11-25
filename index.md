@@ -33,11 +33,11 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 	    </tr>
 		<tr>
 	        <td>
-	            <strong> <a href="">Deep Bayesian Structure Networks</a></strong> 
+	            <strong> <a href="https://128.84.21.199/pdf/1911.09804.pdf">DBSN: Measuring Uncertainty through Bayesian Learning of Deep Neural Network Structures</a></strong> 
 	        <br>
 	        Zhijie Deng, <strong>Yucen Luo</strong>, Jun Zhu, Bo Zhang
 	        <br>
-	        <i>Under review.
+	        <i>arXiv 1911.09804, 2019.
 	        </i>
 	        </td>
 	    </tr>
@@ -77,7 +77,7 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 	    </tr>
 		<tr>
 			<td>
-		    <strong> <a href="https://128.84.21.199/pdf/1709.05870.pdf">ZhuSuan: A Library for Bayesian Deep Learning</a> [<a href="https://github.com/thu-ml/zhusuan">code</a>]</strong>
+		    <strong> <a href="https://arxiv.org/pdf/1709.05870.pdf">ZhuSuan: A Library for Bayesian Deep Learning</a> [<a href="https://github.com/thu-ml/zhusuan">code</a>]</strong>
 			<br>
 	 		Jiaxin Shi, Jianfei Chen, Jun Zhu, Shengyang Sun, <strong>Yucen Luo</strong>, Yihong Gu, Yuhao Zhou
 			<br>
