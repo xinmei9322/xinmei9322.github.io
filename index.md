@@ -27,13 +27,13 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 	        <br>
 	        <strong>Yucen Luo*</strong>, Alex Beatson, Mohammad Norouzi, Jun Zhu, David Duvenaud, Ryan P. Adams, Ricky T. Q. Chen*
 	        <br>
-		<i>Under review.
+		<i>Under review. Short version accepted at <a href="http://approximateinference.org/">2nd Symposium on Advances in Approximate Bayesian Inference (AABI)</a>.
 		</i>
 	        </td>
 	    </tr>
 		<tr>
 	        <td>
-	            <strong> <a href="https://128.84.21.199/pdf/1911.09804.pdf">DBSN: Measuring Uncertainty through Bayesian Learning of Deep Neural Network Structures</a></strong> 
+	            <strong> <a href="https://arxiv.org/pdf/1911.09804.pdf">DBSN: Measuring Uncertainty through Bayesian Learning of Deep Neural Network Structures</a></strong> 
 	        <br>
 	        Zhijie Deng, <strong>Yucen Luo</strong>, Jun Zhu, Bo Zhang
 	        <br>
@@ -43,7 +43,7 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 	    </tr>
 		<tr>
 	        <td>
-	            <strong> <a href="https://arxiv.org/pdf/1903.09980.pdf">Cluster Alignment with a Teacher for Unsupervised Domain Adaptation</a>[<a href="https://github.com/thudzj/CAT">code</a>]</strong> 
+	            <strong> <a href="https://arxiv.org/pdf/1903.09980.pdf">Cluster Alignment with a Teacher for Unsupervised Domain Adaptation</a> [<a href="https://github.com/thudzj/CAT">code</a>]</strong> 
 	        <br>
 	        Zhijie Deng, <strong>Yucen Luo</strong>, Jun Zhu
 	        <br>
