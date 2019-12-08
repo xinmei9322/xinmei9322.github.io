@@ -53,7 +53,7 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 	    </tr>
 	    	<tr>
 		<td>
-		    <strong> <a href="https://arxiv.org/pdf/1810.11971.pdf">Semi-crowdsourced Clustering with Deep Generative Models</a> [<a href="https://github.com/xinmei9322/semicrowd">code</a>, <a href="bigml.cs.tsinghua.edu.cn/~yucen/static/scdc_poster_NeurIPS.pdf">poster</a>]</strong>
+		    <strong> <a href="https://arxiv.org/pdf/1810.11971.pdf">Semi-crowdsourced Clustering with Deep Generative Models</a> [<a href="https://github.com/xinmei9322/semicrowd">code</a>, <a href="https://bigml.cs.tsinghua.edu.cn/~yucen/static/scdc_poster_NeurIPS.pdf">poster</a>]</strong>
 			<br>
 			<strong>Yucen Luo</strong>, Tian Tian, Jiaxin Shi, Jun Zhu, Bo Zhang
 			<br>
@@ -65,7 +65,7 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 		</tr>
 		<tr>
 			<td>
-		    <strong> <a href="https://arxiv.org/pdf/1711.00258.pdf">Smooth Neighbors on Teacher Graphs for Semi-supervised Learning</a> [<a href="https://github.com/xinmei9322/SNTG">code</a>, <a href="bigml.cs.tsinghua.edu.cn/~yucen/static/sntg_poster_CVPR.pdf">poster</a>]</strong>
+		    <strong> <a href="https://arxiv.org/pdf/1711.00258.pdf">Smooth Neighbors on Teacher Graphs for Semi-supervised Learning</a> [<a href="https://github.com/xinmei9322/SNTG">code</a>, <a href="https://bigml.cs.tsinghua.edu.cn/~yucen/static/sntg_poster_CVPR.pdf">poster</a>]</strong>
 			<br>
 	 		<strong>Yucen Luo</strong>, Jun Zhu, Mengxi Li, Yong Ren, Bo Zhang
 			<br>
