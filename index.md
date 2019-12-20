@@ -23,12 +23,13 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 	<tbody>
 		<tr>
 	        <td>
-	            <strong> <a href="">SUMO: Unbiased Estimation of Log Marginal Probability for Latent Variable Models</a></strong> 
+	            <strong> <a href="https://openreview.net/forum?id=SylkYeHtwr">SUMO: Unbiased Estimation of Log Marginal Probability for Latent Variable Models</a></strong> 
 	        <br>
 	        <strong>Yucen Luo*</strong>, Alex Beatson, Mohammad Norouzi, Jun Zhu, David Duvenaud, Ryan P. Adams, Ricky T. Q. Chen*
 	        <br>
-		<i>Under review. Short version accepted at <a href="http://approximateinference.org/">2nd Symposium on Advances in Approximate Bayesian Inference (AABI)</a>.
-		</i>
+		<i> International Conference on Learning Representations (ICLR), 2020 <strong>(Spotlight)</strong>.</i>
+<!-- 		<i>Under review. Short version accepted at <a href="http://approximateinference.org/">2nd Symposium on Advances in Approximate Bayesian Inference (AABI)</a>.
+		</i> -->
 	        </td>
 	    </tr>
 		<tr>
@@ -69,7 +70,7 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 			<br>
 	 		<strong>Yucen Luo</strong>, Jun Zhu, Mengxi Li, Yong Ren, Bo Zhang
 			<br>
-			<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 <strong>(Spotlight)</strong></i>.
+			<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 <strong>(Spotlight)</strong>.</i>
 			<br>
 			<i><strong>Best paper award</strong> at <a href="https://lld-workshop.github.io/">NeurIPS 2017 Workshop on Learning with Limited Labeled Data</a> </i>.
 			<br>
