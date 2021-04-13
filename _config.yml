@@ -11,7 +11,7 @@ highlighter : pygments
 # Site settings
 title: Yucen Luo
 description: "Home"
-email: luoyc15@mails.tsinghua.edu.cn
+email: luoyucen9322@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://xinmei9322.github.io"
 repository: "https://github.com/xinmei9322/xinmei9322.github.io"
