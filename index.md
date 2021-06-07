@@ -7,13 +7,16 @@ bodyclass: home
 <!-- <section class="txt-left container"> -->
 <!-- </section> -->
 <img style="width:280px;float:right;margin:0 0px 16px 16px" src="{{site.url}}/images/yucen.jpg">
-I am a Ph.D. student in Department of Computer Science and Technology at Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml). 
+Starting June 2021, I will join as a postdoctoral researcher at [Empirical Inference Department](https://ei.is.tuebingen.mpg.de/), [Max Planck Institute for Intelligent Systems](http://www.is.mpg.de/en) working with [Bernhard Schölkopf](http://is.tuebingen.mpg.de/person/bs). I obtained my Ph.D. in Computer Science from Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml) in December 2020. 
 My research interests are in data-efficient machine learning. I have worked on topics including semi-supervised learning, deep generative models, and approximate inference.
-
-Last semester I was a visiting student at Princeton University working with [Ryan P. Adams](https://www.cs.princeton.edu/~rpa/). 
-In summer 2018 I was a research intern at [RIKEN-AIP](https://aip.riken.jp/), Tokyo, working with [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/) and [Gang Niu](https://niug1984.github.io/). 
-I also spent time at Google Cloud AI, Beijing as a research intern, supervised by [Tomas Pfister](http://tomas.pfister.fi/).
 I received my B.E. degree from Department of Electronical Engineering at Tsinghua University in 2015. I also received a Bachelor's degree in Economics from National School of Development of Peking University.
+
+I am currently a research scientist intern at DeepMind, working with [Silvia Chiappa](https://csilviavr.github.io/) on conformal inference of individual treatment effects.
+I was a visiting student at Princeton University working with [Ryan P. Adams](https://www.cs.princeton.edu/~rpa/) in 2019. 
+I also spent time at [RIKEN-AIP](https://aip.riken.jp/), Tokyo and Google Cloud AI, Beijing as a research intern during my PhD.
+<!-- In summer 2018 I was a research intern at [RIKEN-AIP](https://aip.riken.jp/), Tokyo, working with [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/) and [Gang Niu](https://niug1984.github.io/). 
+I also spent time at Google Cloud AI, Beijing as a research intern, supervised by [Tomas Pfister](http://tomas.pfister.fi/). -->
+
 
 <hr class="hr">
 
@@ -21,6 +24,16 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 
 <table style="margin: 0px; border-collapse: separate; border-spacing: 0 1em">
 	<tbody>
+		<tr>
+		<td>
+	            <strong> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17133">Improving Generative Moment Matching Networks with Distri-
+bution Partition</a></strong> 
+	        <br>
+	        Yong Ren, <strong>Yucen Luo</strong>, Jun Zhu
+	        <br>
+		<i> Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021.</i>
+	        </td>
+	    </tr>	
 		<tr>
 	        <td>
 	            <strong> <a href="https://openreview.net/forum?id=SylkYeHtwr">SUMO: Unbiased Estimation of Log Marginal Probability for Latent Variable Models</a></strong> 
@@ -38,7 +51,7 @@ I received my B.E. degree from Department of Electronical Engineering at Tsinghu
 	        <br>
 	        Zhijie Deng, <strong>Yucen Luo</strong>, Jun Zhu, Bo Zhang
 	        <br>
-	        <i>arXiv 1911.09804, 2019.
+	        <i>2nd Workshop on Neural Architecture Search at ICLR 2021.
 	        </i>
 	        </td>
 	    </tr>
