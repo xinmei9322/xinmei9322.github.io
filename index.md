@@ -26,8 +26,7 @@ I also spent time at Google Cloud AI, Beijing as a research intern, supervised b
 	<tbody>
 		<tr>
 		<td>
-	            <strong> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17133">Improving Generative Moment Matching Networks with Distri-
-bution Partition</a></strong> 
+	            <strong> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17133">Improving Generative Moment Matching Networks with Distribution Partition</a></strong> 
 	        <br>
 	        Yong Ren, <strong>Yucen Luo</strong>, Jun Zhu
 	        <br>
