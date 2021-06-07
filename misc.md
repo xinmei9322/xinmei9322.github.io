@@ -6,13 +6,13 @@ permalink: /misc/
 
 ## Services
 
-I reviewed for ICLR 2020, ICML 2019-2020, NeurIPS 2019, AISTATS 2020, CVPR 2019-2020, ICCV 2019, ECCV 2020, WiML 2016, 2017.
+I reviewed for ICLR 2020-2021, ICML 2019-2021, NeurIPS 2019-2020, AISTATS 2020, CVPR 2019-2021, ICCV 2019, ECCV 2020, WiML 2016, 2017.
 
 <hr class="hr">
 
 ## Honors and Awards
 
-
+* Distinguished PhD Award, Beijing, 2021.
 * 84 Future Innovation Scholarship, 2019.
 * Gemalto Scholarship, 2018.
 * Travel Award, NeurIPS 2018.
