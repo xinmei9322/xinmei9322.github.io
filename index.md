@@ -26,6 +26,15 @@ I also spent time at Google Cloud AI, Beijing as a research intern, supervised b
 	<tbody>
 		<tr>
 		<td>
+	            <strong> <a href="https://arxiv.org/pdf/2207.09768.pdf">Learning Counterfactually Invariant Predictors</a></strong> 
+	        <br>
+	        Francesco Quinzan, Cecilia Casolo, Krikamol Muandet, Niki Kilbertus, <strong>Yucen Luo</strong>
+	        <br>
+		<i> Arxiv/2207.09768</i>
+	        </td>
+	    </tr>
+		<tr>
+		<td>
 	            <strong> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17133">Improving Generative Moment Matching Networks with Distribution Partition</a></strong> 
 	        <br>
 	        Yong Ren, <strong>Yucen Luo</strong>, Jun Zhu
