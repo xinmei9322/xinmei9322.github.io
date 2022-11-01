@@ -26,6 +26,15 @@ I also spent time at Google Cloud AI, Beijing as a research intern, supervised b
 	<tbody>
 		<tr>
 		<td>
+	            <strong> <a href="https://arxiv.org/pdf/2210.16525.pdf">Spectral Representation Learning for Conditional Moment Models</a></strong> 
+	        <br>
+		Ziyu Wang, <strong>Yucen Luo</strong>, Yueru Li, Jun Zhu, Bernhard Schölkopf
+	        <br>
+		<i> Arxiv/2210.16525</i>
+	        </td>
+	    </tr>
+		<tr>
+		<td>
 	            <strong> <a href="https://arxiv.org/pdf/2207.09768.pdf">Learning Counterfactually Invariant Predictors</a></strong> 
 	        <br>
 	        Francesco Quinzan, Cecilia Casolo, Krikamol Muandet, Niki Kilbertus, <strong>Yucen Luo</strong>
@@ -35,7 +44,7 @@ I also spent time at Google Cloud AI, Beijing as a research intern, supervised b
 	    </tr>
 		<tr>
 		<td>
-	            <strong> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17133">Improving Generative Moment Matching Networks with Distribution Partition</a></strong> 
+	            <strong> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17133">Improving Generative Moment Matching Networks with Distribution Partition</a> [<a href="https://github.com/McGrady00H/AAA21-Improving-MMD-with-Distribution-Partition">code</a>]</strong> 
 	        <br>
 	        Yong Ren, <strong>Yucen Luo</strong>, Jun Zhu
 	        <br>
@@ -44,7 +53,7 @@ I also spent time at Google Cloud AI, Beijing as a research intern, supervised b
 	    </tr>	
 		<tr>
 	        <td>
-	            <strong> <a href="https://openreview.net/forum?id=SylkYeHtwr">SUMO: Unbiased Estimation of Log Marginal Probability for Latent Variable Models</a></strong> 
+	            <strong> <a href="https://openreview.net/forum?id=SylkYeHtwr">SUMO: Unbiased Estimation of Log Marginal Probability for Latent Variable Models</a> [<a href="https://colab.research.google.com/drive/1iUjFt_RW3OUOdRXZjbYgJBsbd2dbCCgF">code</a>]</strong> 
 	        <br>
 	        <strong>Yucen Luo*</strong>, Alex Beatson, Mohammad Norouzi, Jun Zhu, David Duvenaud, Ryan P. Adams, Ricky T. Q. Chen*
 	        <br>
