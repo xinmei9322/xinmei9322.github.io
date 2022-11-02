@@ -67,13 +67,13 @@ I also spent time at Google Cloud AI, Beijing as a research intern, supervised b
 	        <strong>Yucen Luo*</strong>, Alex Beatson, Mohammad Norouzi, Jun Zhu, David Duvenaud, Ryan P. Adams, Ricky T. Q. Chen*
 	        <br>
 		<i> International Conference on Learning Representations (ICLR), 2020 <strong>(Spotlight)</strong>.</i>
-<!-- 		<i>Under review. Short version accepted at <a href="http://approximateinference.org/">2nd Symposium on Advances in Approximate Bayesian Inference (AABI)</a>.
+<!-- 		<i>Short version accepted at <a href="http://approximateinference.org/">2nd Symposium on Advances in Approximate Bayesian Inference (AABI)</a>.
 		</i> -->
 	        </td>
 	    </tr>
 		<tr>
 	        <td>
-	            <strong> <a href="https://arxiv.org/pdf/1911.09804.pdf">DBSN: Measuring Uncertainty through Bayesian Learning of Deep Neural Network Structures</a></strong> 
+	            <strong> <a href="https://arxiv.org/pdf/1911.09804.pdf">DBSN: Measuring Uncertainty through Bayesian Learning of Deep Neural Network Structures</a> [<a href="https://xinmei9322.github.io/docs/DBSN_code.zip">code</a>]</strong> 
 	        <br>
 	        Zhijie Deng, <strong>Yucen Luo</strong>, Jun Zhu, Bo Zhang
 	        <br>
