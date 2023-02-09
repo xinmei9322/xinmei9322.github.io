@@ -37,18 +37,18 @@ I also spent time at Google Cloud AI, Beijing as a research intern, supervised b
 		<td>
 	            <strong> <a href="https://arxiv.org/pdf/2210.17467.pdf">Iterative Teaching by Data Hallucination</a></strong> 
 	        <br>
-		Zeju Qiu, Weiyang Liu, Tim Z. Xiao, Zhen Liu, Umang Bhatt, <strong>Yucen Luo</strong>, Adrian Weller, Bernhard Schölkopf
+		Zeju Qiu*, Weiyang Liu*, Tim Z. Xiao, Zhen Liu, Umang Bhatt, <strong>Yucen Luo</strong>, Adrian Weller, Bernhard Schölkopf
 	        <br>
-		<i> Arxiv/2210.17467</i>
+		<i> The 26th International Conference on Artificial Intelligence and Statistics (AISTATS), 2023.</i>
 	        </td>
 	    </tr>
 		<tr>
 		<td>
 	            <strong> <a href="https://arxiv.org/pdf/2207.09768.pdf">Learning Counterfactually Invariant Predictors</a></strong> 
 	        <br>
-	        Francesco Quinzan, Cecilia Casolo, Krikamol Muandet, Niki Kilbertus, <strong>Yucen Luo</strong>
+	        Francesco Quinzan*, Cecilia Casolo*, Krikamol Muandet, <strong>Yucen Luo</strong>**, Niki Kilbertus**
 	        <br>
-		<i> Arxiv/2207.09768</i>
+		<i> NeurIPS 2022 workshop on <a href="https://www.cml-4-impact.vanderschaar-lab.com/">Causality for Real-World Impact</a>.</i>
 	        </td>
 	    </tr>
 		<tr>
@@ -57,7 +57,7 @@ I also spent time at Google Cloud AI, Beijing as a research intern, supervised b
 	        <br>
 	        Yong Ren, <strong>Yucen Luo</strong>, Jun Zhu
 	        <br>
-		<i> Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021.</i>
+		<i> The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021.</i>
 	        </td>
 	    </tr>	
 		<tr>
@@ -77,7 +77,7 @@ I also spent time at Google Cloud AI, Beijing as a research intern, supervised b
 	        <br>
 	        Zhijie Deng, <strong>Yucen Luo</strong>, Jun Zhu, Bo Zhang
 	        <br>
-	        <i>2nd Workshop on Neural Architecture Search at ICLR 2021.
+	        <i><a href="https://sites.google.com/view/nas2021/accepted-papers?authuser=0">The 2nd Workshop on Neural Architecture Search at ICLR 2021</a>.
 	        </i>
 	        </td>
 	    </tr>
