@@ -26,6 +26,15 @@ I also spent time at Google Cloud AI, Beijing as a research intern, supervised b
 	<tbody>
 		<tr>
 		<td>
+	            <strong> <a href="https://arxiv.org/pdf/2304.02841.pdf">Learning Neural Eigenfunctions for Unsupervised Semantic Segmentation</a></strong> 
+	        <br>
+		Zhijie Deng, <strong>Yucen Luo</strong>
+	        <br>
+		<i> International Conference on Computer Vision (ICCV), 2023</i>
+	        </td>
+	    </tr>
+		<tr>
+		<td>
 	            <strong> <a href="https://arxiv.org/pdf/2210.16525.pdf">Spectral Representation Learning for Conditional Moment Models</a></strong> 
 	        <br>
 		Ziyu Wang, <strong>Yucen Luo</strong>, Yueru Li, Jun Zhu, Bernhard Schölkopf
